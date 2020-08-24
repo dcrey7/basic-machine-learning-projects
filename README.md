@@ -1,1 +1,1 @@
-# chicago-ml-assignments
+some basic machine learning projects
